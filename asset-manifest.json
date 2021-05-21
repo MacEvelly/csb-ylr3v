@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://macevelly.github.io/csb-ylr3v/static/css/main.c0f4d507.chunk.css",
+    "main.js": "https://macevelly.github.io/csb-ylr3v/static/js/main.fc9f13b7.chunk.js",
+    "main.js.map": "https://macevelly.github.io/csb-ylr3v/static/js/main.fc9f13b7.chunk.js.map",
+    "runtime-main.js": "https://macevelly.github.io/csb-ylr3v/static/js/runtime-main.2faf0b70.js",
+    "runtime-main.js.map": "https://macevelly.github.io/csb-ylr3v/static/js/runtime-main.2faf0b70.js.map",
+    "static/js/2.72d2a27a.chunk.js": "https://macevelly.github.io/csb-ylr3v/static/js/2.72d2a27a.chunk.js",
+    "static/js/2.72d2a27a.chunk.js.map": "https://macevelly.github.io/csb-ylr3v/static/js/2.72d2a27a.chunk.js.map",
+    "index.html": "https://macevelly.github.io/csb-ylr3v/index.html",
+    "static/css/main.c0f4d507.chunk.css.map": "https://macevelly.github.io/csb-ylr3v/static/css/main.c0f4d507.chunk.css.map",
+    "static/js/2.72d2a27a.chunk.js.LICENSE.txt": "https://macevelly.github.io/csb-ylr3v/static/js/2.72d2a27a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2faf0b70.js",
+    "static/js/2.72d2a27a.chunk.js",
+    "static/css/main.c0f4d507.chunk.css",
+    "static/js/main.fc9f13b7.chunk.js"
+  ]
+}
